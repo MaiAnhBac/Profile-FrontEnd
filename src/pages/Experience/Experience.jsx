@@ -98,7 +98,7 @@ const Experience = () => {
                                 </div>
                             </div>
                         </div>
-                        <h4 className='text-xs font-medium lg:absolute'>14.09.2023 - 17.09.2023</h4>
+                        <h4 className='text-xs font-medium lg:absolute'>14.09.2023 - 27.09.2023</h4>
                     </div>
                 </div>
                 <div class="tl-container tl-hour">
