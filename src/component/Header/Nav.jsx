@@ -23,7 +23,7 @@ const Nav = () => {
             <div className='m-auto'><Link onClick={() => handleComponentClick('Skills')}>Skills</Link></div>
             <div className='m-auto'><Link onClick={() => handleComponentClick('MyWord')}>My Word</Link></div>
             <div className='m-auto'><Link onClick={() => handleComponentClick('Experience')}>Experience</Link></div>
-            <div className='m-auto'><Link to='https://github.com/hoangtu0508'><AiFillGithub className='w-6 h-6 m-auto' /></Link></div>
+            <div className='m-auto'><Link to='https://github.com/MaiAnhBac'><AiFillGithub className='w-6 h-6 m-auto' /></Link></div>
         </div>
     )
 }
